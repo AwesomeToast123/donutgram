@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336946020919",
+    "project_id": "donutgram-23fc1",
+    "storage_bucket": "donutgram-23fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336946020919:android:432a6b4884b143b6e435b2",
+        "android_client_info": {
+          "package_name": "com.example.donutgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2na_S1rsDJoPRgKtAwfUkRoirggf9Pio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
